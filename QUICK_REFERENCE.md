@@ -124,16 +124,13 @@ Based on research by Daniel Jackson (MIT, 2025) on LLM usage in undergraduate co
 - Production-ready deployment package
 - **© 2026 DBbun LLC**
 
-### v1.0 (Previous)
-- Initial concept and basic simulation
-
 ---
 
 ## Legal
 
 **Copyright:** © 2026 DBbun LLC. All rights reserved.
 
-**License:** MIT License - See LICENSE file for details
+**License:** apache-2.0 License - See LICENSE file for details
 
 **Disclaimer:** This is a research tool generating synthetic data. Use thoughtfully in educational policy and research contexts.
 
