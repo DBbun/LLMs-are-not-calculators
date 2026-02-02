@@ -291,8 +291,8 @@ git push origin main
 
 2. Create a release with version tag:
 ```bash
-git tag -a v2.0 -m "Version 2.0: Enhanced simulation based on Jackson (2025)"
-git push origin v2.0
+git tag -a v1.0 -m "Version 1.0: Enhanced simulation based on Jackson (2025)"
+git push origin v1.0
 ```
 
 ### For Hugging Face Datasets
@@ -348,7 +348,7 @@ If you use this simulator or generated datasets, please cite:
   author={DBbun LLC},
   note={Based on research by Jackson, Daniel},
   year={2026},
-  version={2.0},
+  version={1.0},
   url={https://github.com/dbbun/llm-education-simulator}
 }
 ```
