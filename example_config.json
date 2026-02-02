@@ -1,0 +1,32 @@
+{
+  "version": "2.0",
+  "description": "Example configuration for high-LLM-usage scenario",
+  "seed": 42,
+  "output_dir": "output_high_llm",
+  "write_metadata": true,
+  "write_readme": true,
+  
+  "n_students": 150,
+  "n_tasks": 12,
+  "tasks_per_student": 5,
+  
+  "task_type_weights": {
+    "coding": 0.60,
+    "writing": 0.25,
+    "reading": 0.15
+  },
+  
+  "tool_distribution": {
+    "search": 0.10,
+    "llm_explicit": 0.45,
+    "llm_agentic": 0.45
+  },
+  
+  "effort_minimization_mean": 0.68,
+  "doc_discipline_mean": 0.35,
+  "context_care_mean": 0.48,
+  "intentionality_mean": 0.42,
+  
+  "make_figures": true,
+  "figure_dpi": 150
+}
