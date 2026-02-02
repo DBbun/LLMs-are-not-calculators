@@ -506,6 +506,3 @@ The dataset should NOT:
 ---
 
 **© 2026 DBbun LLC. All rights reserved.**
-
-**Last Updated**: 2026-02-02
-**Version**: 2.0
