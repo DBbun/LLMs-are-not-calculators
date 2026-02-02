@@ -2,7 +2,7 @@
 
 **Organization:** DBbun LLC  
 **Project:** LLM Education Impact Simulator  
-**Version:** 2.0  
+**Version:** 1.0  
 
 ## Quick Deployment Checklist
 
@@ -14,7 +14,7 @@
 - [ ] requirements.txt lists all dependencies
 - [ ] .gitignore excludes output files
 - [ ] Example configuration provided
-- [ ] Version tagged (e.g., v2.0)
+- [ ] Version tagged (e.g., v1.0)
 
 ### For Hugging Face Datasets
 
@@ -51,7 +51,7 @@ ls -lh output/
 # Initialize git (if not already done)
 git init
 git add .
-git commit -m "Initial commit: LLM Education Impact Simulator v2.0"
+git commit -m "Initial commit: LLM Education Impact Simulator v1.0"
 
 # Create repository on GitHub
 # Then:
@@ -64,14 +64,14 @@ git push -u origin main
 
 ```bash
 # Tag the release
-git tag -a v2.0 -m "Version 2.0: Enhanced simulation based on Jackson (2025)"
-git push origin v2.0
+git tag -a v1.0 -m "Version 1.0: Enhanced simulation based on Jackson (2025)"
+git push origin v1.0
 
 # On GitHub:
 # 1. Go to Releases
 # 2. Click "Draft a new release"
-# 3. Choose tag v2.0
-# 4. Title: "Version 2.0: Jackson (2025) Integration"
+# 3. Choose tag v1.0
+# 4. Title: "Version 1.0: Jackson (2025) Integration"
 # 5. Description: Copy from CHANGELOG section below
 # 6. Attach example output files as assets
 # 7. Publish release
