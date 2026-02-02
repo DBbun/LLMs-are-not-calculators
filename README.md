@@ -381,7 +381,6 @@ This work builds on:
 
 For questions or collaboration:
 - **Organization:** DBbun LLC
-- Open a GitHub issue
 - Based on research by Daniel Jackson (MIT CSAIL)
 
 ---
