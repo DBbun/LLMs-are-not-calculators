@@ -9,8 +9,8 @@
 **Company:** DBbun LLC  
 **Website:** https://github.com/dbbun  
 **Project:** LLM Education Impact Simulator  
-**Version:** 2.0  
-**License:** MIT  
+**Version:** 1.0  
+**License:** apache-2.0  
 
 ---
 
@@ -95,7 +95,7 @@ Based on research by Daniel Jackson (MIT, 2025) on LLM usage in undergraduate co
   author={DBbun LLC},
   note={Based on research by Jackson, Daniel},
   year={2026},
-  version={2.0},
+  version={1.0},
   url={https://github.com/dbbun/llm-education-simulator}
 }
 ```
@@ -140,7 +140,7 @@ Based on research by Daniel Jackson (MIT, 2025) on LLM usage in undergraduate co
 
 ## Version History
 
-### v2.0 (2026-02-02) - Current
+### v1.0 (2026-02-02) - Current
 - Complete rewrite based on Jackson (2025)
 - Added reading behavior, intentionality, context quality
 - Enhanced theoretical grounding
