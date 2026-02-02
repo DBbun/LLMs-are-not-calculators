@@ -14,19 +14,6 @@
 
 ---
 
-## Repository URLs
-
-### GitHub
-- **Repository:** https://github.com/dbbun/llm-education-simulator
-- **Issues:** https://github.com/dbbun/llm-education-simulator/issues
-- **Releases:** https://github.com/dbbun/llm-education-simulator/releases
-
-### Hugging Face
-- **Dataset:** https://huggingface.co/datasets/dbbun/llm-education-impact
-- **Community:** https://huggingface.co/datasets/dbbun/llm-education-impact/discussions
-
----
-
 ## Quick Start
 
 ```bash
@@ -102,27 +89,17 @@ Based on research by Daniel Jackson (MIT, 2025) on LLM usage in undergraduate co
 
 ---
 
-## Support
-
-- **Issues:** Open a GitHub issue
-- **Email:** [your-support-email@dbbun.com]
-- **Documentation:** See README.md and DEPLOYMENT.md
-
----
-
 ## File Checklist for Deployment
 
 ### Core Files
 - [x] llm_education_simulator.py (main code)
 - [x] requirements.txt (dependencies)
-- [x] LICENSE (MIT with DBbun LLC)
+- [x] LICENSE (apache-2.0 with DBbun LLC)
 - [x] README.md (comprehensive docs)
 - [x] .gitignore (proper exclusions)
 
 ### Documentation
 - [x] DEPLOYMENT.md (step-by-step guide)
-- [x] HUGGINGFACE_CARD.md (dataset card)
-- [x] IMPROVEMENTS_SUMMARY.md (what changed)
 - [x] example_config.json (example)
 
 ### Generated on Run
