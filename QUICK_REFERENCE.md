@@ -7,7 +7,7 @@
 ## Organization Details
 
 **Company:** DBbun LLC  
-**Website:** https://github.com/dbbun  
+**Website:** https://dbbun.com/
 **Project:** LLM Education Impact Simulator  
 **Version:** 1.0  
 **License:** apache-2.0  
